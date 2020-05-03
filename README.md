@@ -1,5 +1,4 @@
-# emploi-nc-app
+# emploi-cmr-app
 
-Application mobile Emploi.nc
-
-Nom de l'application: `Offres Emplois Calédonie`
+Application mobile Emploi.cm
+Nom de l'application: `Offres Emplois Cameroun`
